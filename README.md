@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Int-O-View
-=======
 # [AI-Based Interviewer](https://int-o-view.vercel.app/)
 
 This project is an AI-based interviewer application designed to simulate a professional interview environment. It leverages two Large Language Models (LLMs) provided by Groq: Gemma2-9b for faster inference and reasoning model qwen qwq for better reference. The application automatically converses with the interviewee and, at the end, provides a detailed dashboard with scores and summaries.
@@ -183,4 +181,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - [MongoDB](https://www.mongodb.com) for providing the database solution for efficient data storage and retrieval.
 - [Supabase](https://supabase.com) for providing the vector store database for semantic retrieval capabilities.
 - [LangGraph](https://github.com/langchain-ai/langgraph) for providing the framework to build and orchestrate the AI agent workflow.
->>>>>>> 527a8c0 (fix: update ml model)
